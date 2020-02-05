@@ -17,7 +17,7 @@ To begin tracking your workouts, click the 'New Workout' button and select the e
 
 If you would like to view your workout stats, click the 'Dashboard' link in the top left corner of the Fitness Tracker main page. This dashboard allows you to see your progress over time.
 
-[Click here to start tracking your workouts!](https://fitness-tracker2020.herokuapp.com/)
+[Click here to try the PWA Fitness Tracker!](https://pwa-fitness-tracker.herokuapp.com/)
 
 ![Fitness Tracker](public/fit-track.png)
 
