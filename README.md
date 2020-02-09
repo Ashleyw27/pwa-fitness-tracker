@@ -19,7 +19,7 @@ If you would like to view your workout stats, click the 'Dashboard' link in the 
 
 [Click here to try the PWA Fitness Tracker!](https://pwa-fitness-tracker.herokuapp.com/)
 
-![Fitness Tracker](public/fit-track.png)
+![Fitness Tracker](<iframe src="https://drive.google.com/file/d/1Z_vCregTTiSvHSgEloQwNCMjP0u0IQP2/preview" width="640" height="480"></iframe>)
 
 ## Technology
 * Manifests
